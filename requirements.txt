@@ -1,0 +1,7 @@
+azure-identity
+azure-functions
+azure-keyvault-secrets
+pandas
+pyodbc
+requests
+sqlalchemy
